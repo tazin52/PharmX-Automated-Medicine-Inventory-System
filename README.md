@@ -16,7 +16,7 @@ CSE327 – Software Engineering
 
 ## Project Description
 
-PharmX is an automated medicine inventory and prescription delivery system. The system allows customers to search medicines, upload prescriptions, place online orders, and track deliveries. Pharmacists verify prescriptions and manage medicine stock, while delivery personnel update delivery status. Admin manages users, medicines, inventory, and reports.
+PharmX is an automated medicine inventory and prescription delivery system. The system allows customers to search medicines, upload prescriptions, place online orders, and track deliveries. Pharmacists verify prescriptions and manage medicine stock, while delivery personal update delivery status. Admin manages users, medicines, inventory, and reports.
 
 ## Technologies
 
