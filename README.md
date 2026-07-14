@@ -6,7 +6,7 @@ Group-05
 ## Project Members
 
 1. Tahsin Tazin – 2221276642
-2.Ikramun Masud Lubaba-2232451042
+2. Ikramun Masud Lubaba-2232451042
 3. Soykot Islam – 2013928642
 4. Shamnia Islam Tanha – 2011554042
 
