@@ -1,6 +1,6 @@
 # PharmX-Automated-Medicine-Inventory-System
 
-## Group Name
+## Group Number
 Group-05
 
 ## Project Members
